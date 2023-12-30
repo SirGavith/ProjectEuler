@@ -1,0 +1,1 @@
+Other solutions are in Sirgavith/node/src/ProjectEuler.ts
